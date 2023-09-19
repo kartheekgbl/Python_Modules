@@ -128,7 +128,7 @@ it Gives the individual records
 - In LOC stop index included and access the columns with names
 - In ILOC stop index excluded and access the columns with numbers
 
-# LOC
+## LOC
 
 - ### dat_frame.loc[ row_no ]
 
@@ -154,7 +154,7 @@ it Gives the individual records
 - ### dat_frame.loc[start:stop,"col_1":col_n"]
   we can give idex for the column names also
 
-# ILOC
+## ILOC
 
 - ### dataframe.iloc[ row-no, col-no ]
 
