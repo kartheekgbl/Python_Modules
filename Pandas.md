@@ -92,7 +92,7 @@ we pass the sheet_name also
 
   To dislay top to bottom no.of recordswith out number it gives the top 5
 
-- ### data_frme.shape(no.of rows)
+- ### data_frme.tail(no.of rows)
 
   To dislay top to bottom no.of records
   with out number it gives the Bottom 5
